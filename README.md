@@ -7,4 +7,4 @@ github:s40723128
 
 動態:https://localhost:8443
 
-近態:https://localhost:8444
+靜態:https://localhost:8444
